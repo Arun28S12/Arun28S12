@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 💫
-Passionate Python developer with a knack for crafting efficient solutions. I thrive on turning ideas into reality through web development, harnessing my expertise in creating captivating web pages and conducting seamless web scraping. My professional journey has equipped me with a repertoire of skills, including designing pipelines and web applications utilizing Flask. My commitment to automation drives me to streamline manual processes, making work not just efficient, but also enjoyable. Let's connect, collaborate, and code our way to innovation!
+       Passionate Python developer with a knack for crafting efficient solutions. I thrive on turning ideas into reality through web development, harnessing my expertise in creating captivating web pages and conducting seamless web scraping. My professional journey has equipped me with a repertoire of skills, including designing pipelines and web applications utilizing Flask. My commitment to automation drives me to streamline manual processes, making work not just efficient, but also enjoyable. Let's connect, collaborate, and code our way to innovation!
 
 ## Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.arunrajput)
