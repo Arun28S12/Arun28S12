@@ -41,10 +41,9 @@ Passionate Python developer with a knack for crafting efficient solutions. I thr
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARUN28S12&show_icons=true&theme=dark&count_private=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ARUN28S12&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN28S12&layout=compact&theme=dark&langs_count=6)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARUN28S12&show_icons=true&theme=dark&count_private=true&cache=off)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ARUN28S12&theme=dark&cache=off)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN28S12&layout=compact&theme=dark&langs_count=6&cache=off)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ARUN28S12&icon=0&color=0)](https://visitcount.itsvg.in)
