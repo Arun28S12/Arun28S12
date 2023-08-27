@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 ## Socials 🌐
 📷 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.arunrajput)
-👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunsing)
+👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/arunsing](https://www.linkedin.com/in/arun-singh-shekhawat-672339223))
+## LeetCode Profile 🧠
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/arunsinghrajput4080/)
+
 
 ## Tech Stack 💻
 ### Languages
