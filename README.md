@@ -26,19 +26,17 @@ Here are some ideas to get you started:
 
 ## Tech Stack 💻
 ### Languages
-🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-💻 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-🌐 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-🐍 ![Python](https://img.shields.io/badge/python-3.5%20⭐⭐⭐⭐%E2%AD%90%E2%AD%90-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-💻 ![PHP](https://img.shields.io/badge/php-3%20⭐⭐⭐%E2%AD%90%E2%AD%90-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-🌐 ![JavaScript](https://img.shields.io/badge/javascript-3%20⭐⭐⭐%E2%AD%90%E2%AD%90-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+![Python](https://img.shields.io/badge/python-⭐⭐⭐⭐-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-⭐⭐⭐-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-⭐⭐⭐-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 
 ### Frontend
-🕹️ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-⚛️ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-🅱️ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-🎨 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ### Data Science
 🐼 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
