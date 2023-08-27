@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 💻 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 🌐 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+🐍 ![Python](https://img.shields.io/badge/python-3.5%20⭐⭐⭐⭐%E2%AD%90%E2%AD%90-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+💻 ![PHP](https://img.shields.io/badge/php-3%20⭐⭐⭐%E2%AD%90%E2%AD%90-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+🌐 ![JavaScript](https://img.shields.io/badge/javascript-3%20⭐⭐⭐%E2%AD%90%E2%AD%90-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
 
 ### Frontend
 🕹️ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
