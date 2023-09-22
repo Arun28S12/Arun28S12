@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔥 Passionate Python developer with a knack for crafting efficient solutions. I thrive on turning ideas into reality through web development, harnessing my expertise in creating captivating web pages and conducting seamless web scraping. My professional journey has equipped me with a repertoire of skills, including designing pipelines and web applications utilizing Flask. My commitment to automation drives me to streamline manual processes, making work not just efficient, but also enjoyable. Let's connect, collaborate, and code our way to innovation!
 
 ## Socials 🌐
-📷 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.arunrajput)
+📷 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.arunrajputh/)
 👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/arunsing](https://www.linkedin.com/in/arun-singh-shekhawat-672339223))
 ## Code Chronicles 🚀
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/arunsinghrajput4080/)
