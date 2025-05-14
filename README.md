@@ -1,128 +1,89 @@
-# 👋 Hi, I'm Arun Singh
+# Arun Singh - Data Scientist | Software Engineer
 
-🎯 Passionate Data Scientist & Application Developer focused on building scalable and intelligent solutions using Python, Data Science, and modern cloud technologies.
-
----
-
-## 📞 Contact
-
-- 📧 Email: arunsinghrajput4080@gmail.com  
-- 📱 Phone: +91-9392694990  
-- 🔗 LinkedIn: [linkedin.com/in/arun-singh-shekhawat](https://www.linkedin.com/in/arun-singh-shekhawat)
+📞 +91-9392694990  
+📧 arunsinghrajput4080@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/arun-singh-shekhawat)
 
 ---
 
 ## 🎓 Education
 
-**Jawaharlal Nehru Technological University, Hyderabad (JNTUH-UCEH)**  
-📍 Hyderabad, Telangana  
-🎓 Bachelor of Technology in Chemical Engineering  
-📅 Aug 2023 | **GPA: 7.80/10.00**  
-📘 *Relevant Coursework:* Python, Computer Networks, DBMS, SQL, JavaScript, Web Development, Data Science, Machine Learning
+**Bachelor of Technology in Chemical Engineering**  
+JNTUH-UCEH | Aug 2023 | GPA: 7.80/10.00  
+Hyderabad, Telangana  
+**Relevant Coursework**: Python, Computer Networks, DBMS, SQL, JavaScript, Web Development, Data Science, Machine Learning
 
 ---
 
 ## 💼 Experience
 
-### 🔹 **Atisfy** — *Associate Data Scientist*  
-📍 March 2025 – Present  
-- Designed and deployed machine learning models and end-to-end ETL pipelines.  
-- Expertise in data analysis, statistical modeling, and social media API integrations.  
-- Tools: Python, NumPy, Pandas, Scikit-learn, TensorFlow, MongoDB, NoSQL.
+### **Atisfy**  
+**Associate Data Scientist** | March 2025 – Present  
+- Built ML models and ETL pipelines using Python, Scikit-learn, TensorFlow, and Pandas.  
+- Worked with large datasets, social media APIs, and NoSQL DBs.  
+- Collaborated across departments using Agile, Jira, and Confluence.
 
-### 🔹 **Medicover Hospitals** — *Application Developer / Associate Software Engineer*  
-📍 June 2023 – Feb 2025 | Hyderabad, Telangana  
-- Built HIMS & HRMS systems, automating 80% of manual processes.  
-- Automated data extraction using **Selenium**, reducing 1-week tasks to 3 hours with 90% accuracy.  
-- Developed APIs for Python ↔ PHP interoperability.  
-- Deployed Flask apps on AWS (EC2, RDS) and integrated Microsoft Dynamics 365.
+### **Medicover Hospitals**  
+**Application Developer | Associate Software Engineer** | June 2023 – Feb 2025  
+- Developed HIMS & HRMS systems; automated 80% of manual processes.  
+- Automated insurance data extraction using Python + Selenium (1 week → 3 hours).  
+- Created APIs for cross-tech integration (Python ↔ PHP).  
+- Deployed Flask apps on AWS EC2/RDS; integrated Microsoft D365 with HIMS.
 
-### 🔹 **L&T Mindtree** — *Graduate Engineer Trainee (Intern)*  
-📍 Feb 2023 – May 2023 | Hyderabad  
-- Hands-on with Python, Shell scripting, AWS, and RDBMS fundamentals.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming
-- Python, C++, Java, C, Advanced SQL
-
-### 📊 Data Science & Analytics
-- ETL, Data Cleaning, NumPy, Pandas, Seaborn, Scikit-learn, TensorFlow  
-- Data Modelling, Business Insights, Data Visualization, Git, Ad Hoc Analysis
-
-### 🧰 Tools & Technologies
-- Power BI, Tableau, Alteryx, MySQL, PostgreSQL, SQL Server, Excel, NoSQL, T-SQL
-
-### 📚 Concepts
-- Machine Learning, AI, Computer Networks, Statistics, Probability, DBMS, Operating Systems
-
-### 🌍 Languages
-- English, Hindi, Telugu
+### **L&T Mindtree**  
+**Graduate Engineer Trainee (Intern)** | Feb 2023 – May 2023  
+- Built automation tools using Shell scripting and AWS.  
+- Gained hands-on experience with RDBMS, Python scripting, and ticketing tools like Jira.
 
 ---
 
 ## 🧠 Projects
 
-### 📌 **Customer Churn Prediction**  
-**Stack:** Python, TensorFlow, MySQL, R, Tableau  
-- Built a model using Logistic Regression and Random Forest to identify churn risk.  
-- Visualized insights with Tableau and Matplotlib for strategic recommendations.
+### 🔹 Customer Churn Prediction  
+**Tools**: Python, TensorFlow, MySQL, Tableau, Excel, R  
+- Used Logistic Regression & Random Forest to classify churned customers.  
+- Cleaned data with Pandas; visualized with Matplotlib & Seaborn.
 
-### 📌 **Flask-based Web Application for Data Analytics**  
-**Stack:** Flask, NumPy, Pandas, Seaborn, Power BI, SQL, AWS  
-- Developed an interactive dashboard for real-time analytics.  
-- Hosted on AWS EC2 and used S3 for efficient file handling.
-
----
-
-## 📜 Certifications
-
-- **AWS Certified Solutions Architect - Associate** *(In Progress)*  
-- **Data Science and Machine Learning Bootcamp** — *Udemy*  
-- **Python for Data Science and ML** — *Coursera*
+### 🔹 Flask-Based Web Analytics Dashboard  
+**Tools**: Flask, NumPy, Pandas, Matplotlib, Power BI, Seaborn, SQL, AWS EC2/S3  
+- Created a real-time data analytics dashboard hosted on AWS.
 
 ---
 
-## 🌐 Socials
+## 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh-shekhawat)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.arunrajputh/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/arunsinghrajput4080/)
+### **Programming**
+`Python` &nbsp;&nbsp;|&nbsp;&nbsp; `C++` &nbsp;&nbsp;|&nbsp;&nbsp; `Java` &nbsp;&nbsp;|&nbsp;&nbsp; `Advanced SQL` &nbsp;&nbsp;|&nbsp;&nbsp; `C` &nbsp;&nbsp;|&nbsp;&nbsp; `JavaScript`
 
----
+### **Data Science & Machine Learning**
+`Pandas` &nbsp;&nbsp;|&nbsp;&nbsp; `NumPy` &nbsp;&nbsp;|&nbsp;&nbsp; `Scikit-learn` &nbsp;&nbsp;|&nbsp;&nbsp; `TensorFlow` &nbsp;&nbsp;|&nbsp;&nbsp; `Keras` &nbsp;&nbsp;|&nbsp;&nbsp; `OpenCV`  
+`Matplotlib` &nbsp;&nbsp;|&nbsp;&nbsp; `Seaborn` &nbsp;&nbsp;|&nbsp;&nbsp; `Statsmodels` &nbsp;&nbsp;|&nbsp;&nbsp; `XGBoost` &nbsp;&nbsp;|&nbsp;&nbsp; `LightGBM`
 
-## 🧑‍💻 Tech Stack
+### **Data Tools**
+`Excel` &nbsp;&nbsp;|&nbsp;&nbsp; `Power BI` &nbsp;&nbsp;|&nbsp;&nbsp; `Tableau` &nbsp;&nbsp;|&nbsp;&nbsp; `Alteryx`
 
-**Languages:**  
-![Python](https://img.shields.io/badge/python-⭐⭐⭐⭐-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
-![PHP](https://img.shields.io/badge/php-⭐⭐⭐-%23777BB4.svg?style=plastic&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-⭐⭐⭐-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+### **Database & Cloud**
+`MySQL` &nbsp;&nbsp;|&nbsp;&nbsp; `PostgreSQL` &nbsp;&nbsp;|&nbsp;&nbsp; `SQL Server` &nbsp;&nbsp;|&nbsp;&nbsp; `MongoDB`  
+`AWS (EC2, RDS, S3)` &nbsp;&nbsp;|&nbsp;&nbsp; `GCP` &nbsp;&nbsp;|&nbsp;&nbsp; `Microsoft Azure`
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)  
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+### **DevOps & Automation**
+`Git` &nbsp;&nbsp;|&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;|&nbsp;&nbsp; `Bitbucket` &nbsp;&nbsp;|&nbsp;&nbsp; `Docker` &nbsp;&nbsp;|&nbsp;&nbsp; `CI/CD (Basic)`  
+`Shell Scripting` &nbsp;&nbsp;|&nbsp;&nbsp; `Jupyter Notebook` &nbsp;&nbsp;|&nbsp;&nbsp; `VS Code`
 
-**Data Science:**  
-🐼 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)  
-🧮 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-
-**Database:**  
-🔍 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+### **Team & Productivity Tools**
+`Jira` &nbsp;&nbsp;|&nbsp;&nbsp; `Confluence` &nbsp;&nbsp;|&nbsp;&nbsp; `Slack` &nbsp;&nbsp;|&nbsp;&nbsp; `Bitbucket` &nbsp;&nbsp;|&nbsp;&nbsp; `Trello` &nbsp;&nbsp;|&nbsp;&nbsp; `Microsoft Teams`  
+`Notion` &nbsp;&nbsp;|&nbsp;&nbsp; `Zoom` &nbsp;&nbsp;|&nbsp;&nbsp; `Google Workspace`
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 Certifications
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARUN28S12&show_icons=true&theme=dark&count_private=true)  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ARUN28S12&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN28S12&layout=compact&theme=dark)
+- **AWS Certified Solutions Architect – Associate** *(In Progress)*  
+- **Python for Data Science and Machine Learning Bootcamp** – Udemy  
+- **Data Analytics with Python** – Coursera
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ARUN28S12&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Languages
 
-<!-- Created with ❤️ by Arun Singh -->
+`English` | `Hindi` | `Telugu`
